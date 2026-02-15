@@ -1,0 +1,13 @@
+var KEY_LOGIN = 'KEY_LOGIN';
+var KEY_SAVE_INTRO_INFO = 'KEY_SAVE_INTRO_INFO';
+
+var KEY_FCM_TOKEN = "FCM_TOKEN";
+var KEY_TOKEN = "token";
+var KEY_DEVICE_INFO = 'deviceInfo';
+var KEY_BUILD_NUMBER = '100';
+var KEY_VERSION_APP = '1.0.0';
+var KEY_API_VERSION = '1';
+var KEY_UNIQUE_ID = '1';
+var KEY_USER_LOGIN_STATUS = 'KEY_USER_LOGIN_STATUS';
+const String KEY_USER_ID = 'user_id';
+
